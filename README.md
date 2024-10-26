@@ -41,5 +41,7 @@ I'm learning French right now and with all of my other classes, usually I just d
     npm start
 5. **Open your browser and navigate to http://localhost:3000 to see the application in action.**
 
+6. **Note: There are no extra dependencies/packages to install**
+
 
 
