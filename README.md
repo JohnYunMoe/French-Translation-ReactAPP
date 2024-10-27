@@ -1,6 +1,7 @@
 # Simple French Practice App
 
 I'm learning French right now and with all of my other classes, usually I just don't have the time to learn more French words so I wanted to make something that would help me quickly learn a new word everyday. This simple React app generates a random French word using the RandomWord API and then uses the Language Translation API(https://apilayer.com/marketplace/language_translation-api#documentation-tab) from API Layer to translate it into English. I wanted to also include usage and definition but the API does not provide this information so I am just sticking to simple Translation. 
+####(NOTE: The API I am using is a bit finicky and does not know a lot of French words so if the app returns "Translation Not Found", please keep trying and eventually it will find a word it can translate. I wanted to use Google Translate API or other Translation APIs but they all asked for Card Details so I decided to use this one because it is the only one that's free)
 
 ## Features
 
